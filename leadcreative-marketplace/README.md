@@ -1,4 +1,4 @@
-# LeadCreative Marketplace
+# LeadVerse Creative Marketplace
 
 This project is a digital marketplace for logo and website templates.
 
