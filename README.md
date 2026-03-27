@@ -1,29 +1,36 @@
-Crystal Hilliard — Apprentice Engineer Portfolio
+# Crystal Hilliard – Apprentice Engineer Portfolio
 
-About Me
-I am a non-traditional candidate transitioning into technology through hands-on learning, cybersecurity labs, and AI-assisted projects. My background includes military service, and healthcare, and I now focus on building technical solutions using AI and security tools.
+## About Me
+I’m transitioning into tech from a non-traditional background in healthcare and military service. I’ve been learning by building hands-on projects, working with cybersecurity tools, and using AI to speed up my workflow. I enjoy solving problems, experimenting with new ideas, and continuously improving my skills.
 
-Projects
+## What I’m Working On
+This portfolio highlights projects I created while learning:
+- AI-assisted digital product marketplace
+- Splunk detection labs
+- Cybersecurity home lab
+- AI workflow experiments
 
-LeadCreative – AI Template Marketplace
-Designed and structured a digital marketplace for logos and website templates. Used AI to iterate designs and organize product categories.
+## Projects
 
-Splunk Detection Labs
-Built security alerts and dashboards to detect suspicious login activity and analyze logs.
+### LeadCreative Marketplace
+A digital template marketplace with logos and website designs for small businesses. I used AI tools to help iterate ideas and structure product categories.
 
-Cybersecurity Home Lab
-Configured Linux and Windows environments to practice threat hunting and network analysis.
+### Splunk Detection Labs
+Security alert simulations and dashboards designed to detect suspicious login activity.
 
-AI Workflow Experiments
-Used AI tools for rapid prototyping, documentation, and solution design.
+### Cybersecurity Home Lab
+Virtual lab environment for practicing Linux, networking, and threat hunting.
 
-Skills
-- Python
+### AI Workflow Experiments
+Examples of how I use AI to prototype ideas, generate documentation, and improve solutions.
+
+## Skills
+- Python (basic)
 - Splunk
 - Wireshark
 - Linux
-- AI-assisted development
 - Networking fundamentals
+- AI-assisted development
 
-Goal
-Seeking an Apprentice Engineer opportunity to grow my technical skills and contribute to real-world projects.
+## Goal
+I’m seeking an apprenticeship where I can continue learning, collaborate with experienced engineers, and contribute to meaningful projects.
