@@ -1,37 +1,31 @@
+# Hi, I'm Crystal 👋
 
-# Crystal Hilliard – Apprentice Engineer Portfolio
+Frontend Engineer | Creative Technologist
 
-## About Me
-I’m transitioning into tech from a non-traditional background in healthcare and military service. I’ve been learning by building hands-on projects, working with cybersecurity tools, and using AI to speed up my workflow. I enjoy solving problems, experimenting with new ideas, and continuously improving my skills.
+I build visually-driven web experiences combining design + engineering.
 
-## What I’m Working On
-This portfolio highlights projects I created while learning:
-- AI-assisted digital product marketplace
-- Splunk detection labs
-- Cybersecurity home lab
-- AI workflow experiments
+## What I'm Building
+• Website Template Systems  
+• UI Component Libraries  
+• AI-powered Web Tools  
+• React + Vite Applications  
 
-## Projects
+## Tech Stack
+React • Vite • TypeScript • Tailwind • Node.js  
 
-### LeadCreative Marketplace
-A digital template marketplace with logos and website designs for small businesses. I used AI tools to help iterate ideas and structure product categories.
+## Current Focus
+Building portfolio projects aligned with creative product companies like Pinterest.
 
-### Splunk Detection Labs
-Security alert simulations and dashboards designed to detect suspicious login activity.
+## Featured Projects
+- LeadVerse AI
+- Website Template System
+- UI Component Library
+- Portfolio Dashboard
 
-### Cybersecurity Home Lab
-Virtual lab environment for practicing Linux, networking, and threat hunting.
+Let's build something visual.
 
-### AI Workflow Experiments
-Examples of how I use AI to prototype ideas, generate documentation, and improve solutions.
-
-## Skills
-- Python (basic)
-- Splunk
-- Wireshark
-- Linux
-- Networking fundamentals
-- AI-assisted development
-
-## Goal
-I’m seeking an apprenticeship where I can continue learning, collaborate with experienced engineers, and contribute to meaningful projects.
+## Currently Learning
+- Design Systems
+- Accessibility (a11y)
+- Responsive Layouts
+- Component-driven UI
